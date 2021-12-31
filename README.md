@@ -1,5 +1,5 @@
 # Natural-Language-Processing-NLP-Fundamentals
-NLP Beginner Exercises
+### NLP Beginner Exercises
 
 ## I. Basics
 > 1. Sentence Tokenization - Word Tokenization
