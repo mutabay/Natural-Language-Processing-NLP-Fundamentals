@@ -8,7 +8,7 @@
 > 4. Stemming
 > 5. Lemmaization
 > 6. POSTagging
-> 7. Named Entity Recognition
+> 7. Named Entity Recognition   
 
 ## II. Latent Dirichlet Allocation (LDA)
 
