@@ -10,6 +10,14 @@
 > 6. POSTagging
 > 7. Named Entity Recognition   
 
-## II. Latent Dirichlet Allocation (LDA)
+## II. Latent Dirichlet Allocation (LDA) Topic Modelling
+> 1. Data Cleaning
+> 2. Tokenization
+> 3. LDA Model Training
+> 4. Evaluating the results.
 
-## III. Sentiment Analysis
+## III. Sentiment Analysis for Turkish
+
+> 1. Preprocessing
+> 2. Model Training (Naive Bayes)
+> 3. Evaluating the results.
